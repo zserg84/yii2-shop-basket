@@ -17,7 +17,7 @@
   },
   "require": {
     "yiisoft/yii2": "*",
-    "andreykluev/shopbasket": "dev-master"
+    "andreykluev/yii2-shop-basket": "dev-master"
   },
   "autoload": {
     "psr-4": {

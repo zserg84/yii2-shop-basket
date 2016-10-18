@@ -11,9 +11,9 @@
       "email": "zserg84@gmail.com"
     }
   ],
-//  "support": {
-//    "source": "https://github.com/AndreyKluev/yii2-shop-basket"
-//  },
+  "support": {
+    "source": "https://github.com/zserg84/yii2-shop-basket"
+  },
   "require": {
     "yiisoft/yii2": "*",
     "andreykluev/shopbasket": "*"
